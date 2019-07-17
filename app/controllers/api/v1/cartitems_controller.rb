@@ -35,7 +35,7 @@ end
 private
 
 def cartitem_params
-  params.require(:cartitem).permit(:user_id, :cart_id, :product_id, :quantity, :name, :price)
+  params.require(:cartitem).permit(:user_id, :product_id, :quantity, :name, :price, :photo)
 end
 
 def find_cartitem
