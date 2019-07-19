@@ -1,6 +1,6 @@
 # README
 
-This is the back end API that serves the front end app that can be found in the repository github.com/danmj/sales-site-front-end
+This is the back end API that serves the front end app that can be found in the repository [github.com/danmj/sales-site-front-end](github.com/danmj/sales-site-front-end)
 
 ## Installation & Setup
 
