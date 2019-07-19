@@ -15,57 +15,57 @@ Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n1})
 
 n2 = Product.create({name: 'Black Necklace', price: 59.99, description: 'Black pearl necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n2})
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n2})
+Photo.create({url: 'https://i.imgur.com/7PEcSjk.jpg', imageable: n2})
+Photo.create({url: 'https://i.imgur.com/7PEcSjk.jpg', imageable: n2})
 
 #####
 
 n3 = Product.create({name: 'Gold Necklace', price: 39.99, description: 'Gold metallic necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n3})
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n3})
+Photo.create({url: 'https://i.imgur.com/LVGzuxl.jpg', imageable: n3})
+Photo.create({url: 'https://i.imgur.com/LVGzuxl.jpg', imageable: n3})
 
 #####
 
 n4 = Product.create({name: 'Purple Necklace', price: 55.99, description: 'Purple pearl necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n4})
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n4})
+Photo.create({url: 'https://i.imgur.com/fu5a8q7.jpg', imageable: n4})
+Photo.create({url: 'https://i.imgur.com/fu5a8q7.jpg', imageable: n4})
 
 #####
 
 n5 = Product.create({name: 'Orange Necklace', price: 75.99, description: 'Orange pearl necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n5})
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n5})
+Photo.create({url: 'https://i.imgur.com/iy2MGtf.jpg', imageable: n5})
+Photo.create({url: 'https://i.imgur.com/iy2MGtf.jpg', imageable: n5})
 
 #####
 
 n6 = Product.create({name: 'Green Necklace', price: 80.99, description: 'Green pearl necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/apcXQFh.png', imageable: n6})
-Photo.create({url: 'https://i.imgur.com/t03Ib4k.png', imageable: n6})
+Photo.create({url: 'https://i.imgur.com/P7nZ93Q.jpg', imageable: n6})
+Photo.create({url: 'https://i.imgur.com/P7nZ93Q.jpg', imageable: n6})
 
 #####
 
 n7 = Product.create({name: 'Teal Necklace', price: 85.99, description: 'Teal pearl necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n7})
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n7})
+Photo.create({url: 'https://i.imgur.com/ZfgDw7w.jpg', imageable: n7})
+Photo.create({url: 'https://i.imgur.com/ZfgDw7w.jpg', imageable: n7})
 
 #####
 
 n8 = Product.create({name: 'Silver Necklace', price: 89.99, description: 'Silver metallic necklace. Handmade.', comment: 'Length is 100mm, pearl size is 3mm.', subtitle: 'Product is handmade', type_id: 1 })
 
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n8})
-Photo.create({url: 'https://i.imgur.com/1Fnc3vW.jpg', imageable: n8})
+Photo.create({url: 'https://i.imgur.com/m3QvGat.jpg', imageable: n8})
+Photo.create({url: 'https://i.imgur.com/m3QvGat.jpg', imageable: n8})
 
 #####################################################
 
 b1 = Product.create({name: 'Black Bracelet', price: 59.99, description: 'black', comment: 'bracelet', subtitle: 'product is handmade', type_id: 2})
 
-Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b1})
-Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b1})
+Photo.create({url: 'https://i.imgur.com/92vpAN2.jpg', imageable: b1})
+Photo.create({url: 'https://i.imgur.com/92vpAN2.jpg', imageable: b1})
 
 #####
 
@@ -78,15 +78,15 @@ Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b2})
 
 b3 = Product.create({name: 'Green Bracelet', price: 39.99, description: 'green', comment: 'bracelet', subtitle: 'product is handmade', type_id: 2})
 
-Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b3})
-Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b3})
+Photo.create({url: 'https://i.imgur.com/sFjzsMl.jpg', imageable: b3})
+Photo.create({url: 'https://i.imgur.com/sFjzsMl.jpg', imageable: b3})
 
 #####
 
 b4 = Product.create({name: 'Purple Bracelet', price: 49.99, description: 'purple', comment: 'bracelet', subtitle: 'product is handmade', type_id: 2})
 
-Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b4})
-Photo.create({url: 'https://i.imgur.com/FHTAniU.jpg', imageable: b4})
+Photo.create({url: 'https://i.imgur.com/ZeT0P32.jpg', imageable: b4})
+Photo.create({url: 'https://i.imgur.com/ZeT0P32.jpg', imageable: b4})
 
 #####
 
@@ -127,26 +127,26 @@ Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e1})
 
 e2 = Product.create({name: 'Black Earring', price: 29.99, description: 'black pearl earring', comment: 'size is 5mm', subtitle: 'handmade', type_id: 3})
 
-Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e2})
-Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e2})
+Photo.create({url: 'https://i.imgur.com/mQyza0s.jpg', imageable: e2})
+Photo.create({url: 'https://i.imgur.com/mQyza0s.jpg', imageable: e2})
 
 #####
 
 e3 = Product.create({name: 'Green Earring', price: 139.99, description: 'Green pearl earring', comment: 'size is 5mm', subtitle: 'handmade', type_id: 3})
 
-Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e3})
-Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e3})
+Photo.create({url: 'https://i.imgur.com/JIZLZBt.jpg', imageable: e3})
+Photo.create({url: 'https://i.imgur.com/JIZLZBt.jpg', imageable: e3})
 
 #####
 
-e4 = Product.create({name: 'Purple Earring', price: 19.50, description: 'Purple pearl earring', comment: 'size is 5mm', subtitle: 'handmade', type_id: 3})
+e4 = Product.create({name: 'Silver Earring', price: 19.50, description: 'Silver pearl earring', comment: 'size is 5mm', subtitle: 'handmade', type_id: 3})
 
-Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e4})
-Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e4})
+Photo.create({url: 'https://i.imgur.com/XCJX1Sk.jpg', imageable: e4})
+Photo.create({url: 'https://i.imgur.com/XCJX1Sk.jpg', imageable: e4})
 
 #####
 
-e5 = Product.create({name: 'Silver Earring', price: 62.49, description: 'Silver pearl earring', comment: 'size is 5mm', subtitle: 'handmade', type_id: 3})
+e5 = Product.create({name: 'Purple Earring', price: 62.49, description: 'Purple pearl earring', comment: 'size is 5mm', subtitle: 'handmade', type_id: 3})
 
 Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e5})
 Photo.create({url: 'https://i.imgur.com/pTDSQGK.jpg', imageable: e5})
