@@ -1,6 +1,6 @@
-# README
+# eCommerce Plate Backend
 
-This is the back end API that serves the front end app that can be found in the repository [github.com/danmj/sales-site-front-end](https://github.com/danmj/sales-site-front-end)
+This is the back end API that serves the front end app that can be found in the repository [github.com/danmj/sales-site-front-end](https://github.com/danmj/sales-site-front-end). Writen in Ruby using Rails and a PostgreSQL database. Holds data for products, users, and users shopping carts.
 
 ## Installation & Setup
 
