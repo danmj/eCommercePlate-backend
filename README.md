@@ -10,11 +10,11 @@ This is the back end API that serves the front end app that can be found in the 
 
 ## Screenshots
 
-![Landing page screenshot](https://i.imgur.com/ETHZn6e.png)
+![Landing page screenshot](https://i.imgur.com/ETHZn6e.png =600x267)
 
-![Search page screenshot](https://i.imgur.com/fgSu2Mv.png)
+![Search page screenshot](https://i.imgur.com/fgSu2Mv.png =100x20)
 
-![Listing page screenshot](https://i.imgur.com/0qGwhfP.png)
+![Listing page screenshot](https://i.imgur.com/0qGwhfP.png =100x20)
 
 ## Technology and Frameworks
 
