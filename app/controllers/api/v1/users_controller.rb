@@ -1,5 +1,4 @@
 class Api::V1::UsersController < ApplicationController
-
   before_action :find_user, only: [:show, :update]
 
   def index
@@ -13,6 +12,12 @@ class Api::V1::UsersController < ApplicationController
 
   def create
     @user = User.new(user_params)
+    if @user.valid?
+      @user.save
+      render json: { user: UserSerializer.new(@user) }, status: :created
+    else
+      render json: {errors: @user.errors.full_messages}, status: :unprocessible_entity
+    end
   end
 
   def update

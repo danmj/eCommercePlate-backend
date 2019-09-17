@@ -2,13 +2,15 @@ class Api::V1::CartitemsController < ApplicationController
   before_action :find_cartitem, only: [:update, :destroy]
 
   def index
-    @cartitems = Cartitem.all
+    @user = User.find(params[:user_id])
+    @cartitems = @user.cartitems
     render json: @cartitems
   end
 
   def create
-    @cartitem = Cartitem.new(cartitem_params)
-    if @cartitem.valid?
+    @user = User.find(params[:user_id])
+    @cartitem = @user.cartitems.new(cartitem_params)
+    if @cartitem.save
       @cartitem.save
       render json: @cartitem, status: :accepted
     else
