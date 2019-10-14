@@ -1,6 +1,6 @@
 # USER START
 
-u1 = User.create({username: 'dan', email: 'dan@email.com', })
+
 
 # USER END
 
