@@ -49,3 +49,5 @@ gem 'active_model_serializers'
 gem "jwt"
 
 gem "figaro"
+
+gem 'dotenv-rails'
